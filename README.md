@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Saul Bautista!
 
-<!--
-**saul19bautista/saul19bautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desarrollador y entusiasta de la seguridad informática**  
+🎯 **Intereses:** Ciberseguridad, Desarrollo Web y Software  
+📚 **Lenguajes:** Java, C#, Python, HTML, PHP  
+🏆 **Proyectos Destacados:**  
+- 🌱 [PROYECTO-EN-BIZAGI-RECICLAJE-DE-BASURA-CON-RECOMPENSAS](#)
+- 🏨 [hotel](#)
+- 🔐 [tec-nm-tlaxiaco-seguridad-virtualizacion](#)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Conéctate conmigo:**  
+🔗 [LinkedIn](#) | 🐦 [Twitter](#) | 📧 **Correo:** tuemail@gmail.com  
