@@ -3,25 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saul Bautista - Perfil</title>
+    <title>Perfil de Saul Bautista</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
+
+    <!-- Fondo con partículas -->
+    <div id="particles-js"></div>
+
+    <div class="container">
         <h1>🚀 ¡Hola, soy Saul Bautista! 👋</h1>
         <p>Desarrollador apasionado por la tecnología, la seguridad informática y la programación.</p>
-    </header>
-    <section>
-        <h2>💻 Tecnologías</h2>
-        <ul>
-            <li>Java</li>
-            <li>Python</li>
-            <li>HTML, CSS, JavaScript</li>
-            <li>Kali Linux, Metasploit</li>
-        </ul>
-    </section>
-    <footer>
-        <p>🌟 Sígueme en <a href="https://github.com/saul19bautista" target="_blank">GitHub</a></p>
-    </footer>
+        <a href="https://github.com/saul19bautista" class="btn">Ver mi GitHub</a>
+    </div>
+
+    <!-- Scripts -->
+    <script src="particles.min.js"></script>
+    <script src="script.js"></script>
+
 </body>
 </html>
