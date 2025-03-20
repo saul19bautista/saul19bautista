@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #1e1e2e, #3a3a52);
+    color: white;
+    margin: 0;
+    padding: 20px;
+    animation: fadeIn 2s ease-in-out;
+}
+
+h1 {
+    font-size: 2.5em;
+    animation: glow 1.5s infinite alternate;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background: #ff7f50;
+    border-radius: 5px;
+    transition: transform 0.3s;
+}
+
+li:hover {
+    transform: scale(1.1);
+    background: #ff6347;
+}
+
+a {
+    color: cyan;
+    text-decoration: none;
+}
+
+@keyframes glow {
+    0% { text-shadow: 0 0 10px cyan; }
+    100% { text-shadow: 0 0 20px cyan; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
