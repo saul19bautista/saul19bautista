@@ -38,7 +38,6 @@
 ## 🤝 ¡Conéctate conmigo!  
 📩 **Correo:** tuemail@gmail.com  
 🔗 **LinkedIn:** [Tu perfil](#)  
-🐦 **Twitter:** [Tu cuenta](#)  
 👨‍💻 **Portafolio:** [En construcción...](#)  
 
 ---
