@@ -1,48 +1,35 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
+/* Fondo animado de partículas */
+#particles-js {
+    position: fixed;
+    width: 100%;
+    height: 100%;
     background: linear-gradient(135deg, #1e1e2e, #3a3a52);
-    color: white;
-    margin: 0;
-    padding: 20px;
-    animation: fadeIn 2s ease-in-out;
+    z-index: -1;
 }
 
-h1 {
-    font-size: 2.5em;
-    animation: glow 1.5s infinite alternate;
+/* Contenedor del contenido */
+.container {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #ffffff;
+    font-family: Arial, sans-serif;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
+/* Estilo del botón */
+.btn {
     display: inline-block;
-    margin: 10px;
+    margin-top: 20px;
     padding: 10px 20px;
-    background: #ff7f50;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #ff0077;
     border-radius: 5px;
-    transition: transform 0.3s;
-}
-
-li:hover {
-    transform: scale(1.1);
-    background: #ff6347;
-}
-
-a {
-    color: cyan;
     text-decoration: none;
+    transition: 0.3s;
 }
 
-@keyframes glow {
-    0% { text-shadow: 0 0 10px cyan; }
-    100% { text-shadow: 0 0 20px cyan; }
-}
-
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
+.btn:hover {
+    background-color: #cc0055;
 }
