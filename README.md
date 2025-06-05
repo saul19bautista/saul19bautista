@@ -36,9 +36,8 @@
 ---
 
 ## 🤝 ¡Conéctate conmigo!  
-📩 **Correo:** tuemail@gmail.com  
-🔗 **LinkedIn:** [Tu perfil](#)  
-👨‍💻 **Portafolio:** [En construcción...](#)  
+📩 **Correo:** lopezbautistasaul12@gmail.com  
+🔗 **LinkedIn:** [Saúl López Bautista](#)  
 
 ---
 
