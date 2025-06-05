@@ -23,8 +23,17 @@
 📌 Sistema de administración de reservas para un hotel desarrollado en PHP.  
 
 ### 🔐 [tec-nm-tlaxiaco-seguridad-virtualizacion](#)
-📌 Repositorio sobre Seguridad y Virtualización en entornos educativos.  
+📌 Repositorio sobre Seguridad y Virtualización en entornos educativos. 
 
+
+### 🔐 [KinderMobile](#)
+📌 Aplicación para el desarrollo de aprendizaje de niños de nivel preescolar.  
+
+### 🔐 [Springboot](#)
+📌 Manejo de controladores, servicios y modelo de datos.  
+
+### 🔐 [VentaPlus](#)
+📌 Implementación de CRUD, validaciones y diseño de base de datos relacional.
 ---
 
 ## 📊 Estadísticas  
