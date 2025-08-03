@@ -5,7 +5,7 @@
 </p>
 
 ## 🌟 Sobre mí  
-💻 **Desarrollador apasionado por la tecnología, la seguridad informática y la programación, siempre enfocadpo en seguir aprendiendo de las nuevas tecnologias.**
+💻 **Desarrollador apasionado por la tecnología, la seguridad informática y la programación, siempre enfocado en seguir aprendiendo de las nuevas tecnologias.**
 
 🎯 **Intereses:** Ciberseguridad, Desarrollo Web, Software y Virtualización.  
 📚 **Lenguajes y Tecnologías:**  
