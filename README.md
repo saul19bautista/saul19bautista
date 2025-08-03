@@ -5,16 +5,21 @@
 </p>
 
 ## 🌟 Sobre mí  
-💻 **Desarrollador apasionado por la tecnología, la seguridad informática y la programación.**  
+💻 **Desarrollador apasionado por la tecnología, la seguridad informática y la programación, siempre enfocadpo en seguir aprendiendo de las nuevas tecnologias.**
+
 🎯 **Intereses:** Ciberseguridad, Desarrollo Web, Software y Virtualización.  
 📚 **Lenguajes y Tecnologías:**  
 - 💾 **Backend:** Java, Python  
-- 🌐 **Frontend:** HTML, CSS, JavaScript  
+- 🌐 **Frontend:** HTML, CSS, JavaScript
+- 🗄️ **Base de datos:** Oracle cloud, Mysql, PostgreSQL  
 - 🔐 **Seguridad:** Kali Linux, Metasploit, OPNsense, VirtualBox  
 
 ---
 
 ## 🚀 Proyectos Destacados  
+
+### 🔐 [Desarrollo de una pagina web con vue + springboot + oracle clound](#)
+📌 Creacion de una pagina web con el framework vue y sprinboot con conexion a oracle cloud y desplegado en un servidor en la nune
 
 ### 🌱 [PROYECTO-EN-BIZAGI-RECICLAJE-DE-BASURA-CON-RECOMPENSAS](#)
 📌 Un sistema de incentivos para fomentar el reciclaje usando Bizagi.  
