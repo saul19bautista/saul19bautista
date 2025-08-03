@@ -61,8 +61,4 @@
 🔗 **LinkedIn:** [Saúl López Bautista](https://www.linkedin.com/in/saúl-lópez-bautista-a845132a4)  
 🐱 **GitHub:** [@saul19bautista](https://github.com/saul19bautista)  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saul19bautista&label=Profile%20Views&color=blueviolet" alt="Visitas al perfil"/>
-</p>
-
 ⭐ **¡Si te gusta mi trabajo, déjame una estrella en mis repositorios!**  
