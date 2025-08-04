@@ -38,7 +38,7 @@
 - Sistema medico para el diagnostico de enfermedades 
 
 ### 🔐 [Mi proyecto vue- Spring boot](https://github.com/saul19bautista/mi-proyecto-vue-spring)
-**vue + spring boot**
+📌**vue + spring boot**
 - desarrollo de un formulario de cliente desplegado en windows server con nginx
 
 ### 📱 [KinderMobile (App Educativa)](https://github.com/Luz1727/AppAndroid/tree/SAULLOPEZBAUTISTA)
