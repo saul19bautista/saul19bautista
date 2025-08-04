@@ -28,21 +28,21 @@
 
 ## 🚀 **Proyectos Destacados**  
 
-### 🔐 [Sistema Hotelero FullStack](https://github.com/saul19bautista/hotel-web)  
+### 🔐 [Sistema Hotelero FullStack]  
 📌 **Vue.js + Spring Boot + Oracle Cloud**  
 - Desarrollo de una plataforma de reservas con autenticación JWT y despliegue en la nube.  
 - Optimización de consultas SQL y diseño de interfaz responsive.  
 
-### ♻️ [Sistema de Reciclaje con Recompensas](https://github.com/saul19bautista/proyecto-reciclaje-bizagi)  
+### ♻️ [Sistema de Reciclaje con Recompensas]  
 📌 **Bizagi BPM + SQL**  
 - Modelado de procesos BPMN para incentivar el reciclaje mediante puntos canjeables.  
 - Integración con base de datos y generación de reportes.  
 
-### 📱 [KinderMobile (App Educativa)](https://github.com/saul19bautista/kinder-mobile)  
+### 📱 [KinderMobile (App Educativa)]
 📌 **Java + Android Studio**  
 - Aplicación móvil para aprendizaje infantil con actividades interactivas y seguimiento de progreso.  
 
-### 🏨 [Sistema de Gestión Hotelera](https://github.com/saul19bautista/hotel-php)  
+### 🏨 [Sistema de Gestión Hotelera]  
 📌 **PHP + MySQL**  
 - CRUD completo para reservas, habitaciones y clientes con validaciones de negocio.  
 
