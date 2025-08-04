@@ -19,7 +19,7 @@
 | **Área**       | **Habilidades**                                                                                     |
 |----------------|----------------------------------------------------------------------------------------------------|
 | 🔐 **Seguridad**  | Kali Linux, Metasploit, OPNsense, Wireshark, Ethical Hacking                                      |
-| 💾 **Backend**    | Java (Spring Boot), Python (Flask), APIs REST, Microservicios                                      |
+| 💾 **Backend**    | Java (Spring Boot), Python (Flask), APIs REST                                     |
 | 🌐 **Frontend**   | HTML/CSS, JavaScript (Vue.js), Bootstrap                                                           |
 | 🗄️ **Bases de Datos** | Oracle Cloud, MySQL, PostgreSQL, Diseño de modelos relacionales                                   |
 | ☁️ **Cloud/DevOps**  | Oracle Cloud, VMware, VirtualBox                                                        |
