@@ -33,9 +33,13 @@
 - Desarrollo de una plataforma de reservas con autenticación JWT y despliegue en la nube.  
 - Optimización de consultas SQL y diseño de interfaz responsive.  
 
-### [Sistema médico](https://github.com/saul19bautista/SistemMedico)
+### 🔐 [Sistema médico](https://github.com/saul19bautista/SistemMedico)
 📌**python y vue**
 - Sistema medico para el diagnostico de enfermedades 
+
+### 🔐 [Mi proyecto vue- Spring boot](https://github.com/saul19bautista/mi-proyecto-vue-spring)
+**vue + spring boot**
+- desarrollo de un formulario de cliente desplegado en windows server con nginx
 
 ### 📱 [KinderMobile (App Educativa)](https://github.com/Luz1727/AppAndroid/tree/SAULLOPEZBAUTISTA)
 📌 **Java + Android Studio**  
