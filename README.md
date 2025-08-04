@@ -22,27 +22,26 @@
 | 💾 **Backend**    | Java (Spring Boot), Python (Flask), APIs REST, Microservicios                                      |
 | 🌐 **Frontend**   | HTML/CSS, JavaScript (Vue.js), Bootstrap                                                           |
 | 🗄️ **Bases de Datos** | Oracle Cloud, MySQL, PostgreSQL, Diseño de modelos relacionales                                   |
-| ☁️ **Cloud/DevOps**  | Oracle Cloud, Docker, VMware, VirtualBox                                                        |
+| ☁️ **Cloud/DevOps**  | Oracle Cloud, VMware, VirtualBox                                                        |
 
 ---
 
 ## 🚀 **Proyectos Destacados**  
 
-### 🔐 [Sistema Hotelero FullStack]  
+### 🔐 [Sistema Hotelero FullStack](https://github.com/saul19bautista/Pagina-Hotel-desarrollo-en-la-nube)  
 📌 **Vue.js + Spring Boot + Oracle Cloud**  
 - Desarrollo de una plataforma de reservas con autenticación JWT y despliegue en la nube.  
 - Optimización de consultas SQL y diseño de interfaz responsive.  
 
-### ♻️ [Sistema de Reciclaje con Recompensas]  
-📌 **Bizagi BPM + SQL**  
-- Modelado de procesos BPMN para incentivar el reciclaje mediante puntos canjeables.  
-- Integración con base de datos y generación de reportes.  
+### [Sistema médico](https://github.com/saul19bautista/SistemMedico)
+📌**python y vue**
+- Sistema medico para el diagnostico de enfermedades 
 
-### 📱 [KinderMobile (App Educativa)]
+### 📱 [KinderMobile (App Educativa)](https://github.com/Luz1727/AppAndroid/tree/SAULLOPEZBAUTISTA)
 📌 **Java + Android Studio**  
 - Aplicación móvil para aprendizaje infantil con actividades interactivas y seguimiento de progreso.  
 
-### 🏨 [Sistema de Gestión Hotelera]  
+### 🏨 [Sistema de Gestión Hotelera](https://github.com/saul19bautista/hotel)  
 📌 **PHP + MySQL**  
 - CRUD completo para reservas, habitaciones y clientes con validaciones de negocio.  
 
